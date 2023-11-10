@@ -1,0 +1,174 @@
+.title {
+    font-family: 'Chonburi', serif;
+
+
+}
+
+h1.title {
+    text-align: center;
+    margin-top: 100px;
+}
+
+p {
+    font-family: 'Mitr', sans-serif;
+    font-size: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    
+}
+.main {
+    flex: 1;
+  }
+
+#titlecolor {
+    color: midnightblue;
+}
+#titlecolor3 {
+
+    color: midnightblue;
+}
+
+#descript {
+    margin: 30px 70px 0px 70px;
+}
+
+h2.title {
+    margin: 50px 0px 30px 70px;
+}
+
+.title-image {
+    height: 350px;
+    float: left;
+    margin-left: 120px;
+    margin-right: 50px;
+}
+.title-image.right{
+    height: 350px;
+    float: right;
+    margin-left: 120px;
+    margin-right: 50px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+#ลวดลาย1 {
+    float: left;
+}
+#ลวดลาย2 {
+    float: right;
+}
+
+#container li {
+    list-style: none;
+}
+
+.container {
+    padding: 20px;
+    background-color: gold;
+    display: flex;
+    gap: 50px;
+}
+.img-text {
+    font-size: 20px;
+    margin-right: 90px;
+    margin-left: 70px;
+}
+
+li {
+    font-family: 'Mitr', sans-serif;
+}
+.วัตถุประสงค์ {
+    margin-left: 70px;
+    font-size: 20px;
+    
+}
+
+.grey {
+    clear: both;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #EADBC8;
+    display: flex;
+    gap: 10px;
+  }
+.btn {
+    margin-left: 45%;}
+li h3.title {
+    margin-left: 100px;
+
+}
+li {
+    font-size: 20px;
+}
+.gsplist {
+    margin-left: 170px;
+}
+.gsplist1 {
+    margin-left: 220px;
+}
+#ขั้นตอนการศึกษา {
+    margin-left: 100px;
+}
+.paragraph1 {
+    margin-left: 150px;
+    clear: both;
+    margin-right: 70px;
+
+}
+.processimg {
+    height: 300px;
+    margin-left: 40%;
+}
+#ขั้นตอนการออกแบบชิ้นงาน {
+    margin-left: 100px;
+
+}
+#คลี่ {
+    height: 250px;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+#ออกแบบ {
+    height: 250px;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+#ฉลุ {
+    display: inline-block;
+    margin: 30px 80px 30px 80px;
+
+}
+#ขั้นตอนการประกอบระบบควบคุมแสงไฟ {
+    margin-left: 100px;
+}
+video {
+    margin-left: 25%;
+}
+#จบ {
+    height: 400px;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+#ลาย {
+    display: inline-block;
+    margin: 30px 20px 30px 50px;
+
+}
+img.mark {
+    width: 400px;
+}
+img.โคม {
+    width: 300px;
+    margin: 30px 20px 30px 20px;
+    margin-left: 50px;
+}
+#footer{
+    font-size: 17px;
+    
+}
