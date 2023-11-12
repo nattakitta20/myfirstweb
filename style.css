@@ -198,8 +198,11 @@ img.โคม {
     }
 
     iframe {
-        width: 50%;
-        height: 50%;
+        width: 400px;
+        height: 250px;
+        margin-left: 10px;
+       
+    }
 
 
     }
